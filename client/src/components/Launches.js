@@ -28,7 +28,7 @@ export class Launches extends Component {
 
             return (
               <Fragment>
-                {data.launches.reverse().map(launch => (
+                {data.launches.map(launch => (
                   <LaunchItem key={launch.flight_number} launch={launch} />
                 ))}
               </Fragment>
