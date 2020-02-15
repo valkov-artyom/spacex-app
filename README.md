@@ -1,6 +1,6 @@
 Tech-Stack: React, NodeJS, Apollo.
 
-[https://aqueous-escarpment-39539.herokuapp.com/](https://aqueous-escarpment-39539.herokuapp.com/)
+Deployed app: [https://aqueous-escarpment-39539.herokuapp.com/](https://aqueous-escarpment-39539.herokuapp.com/)
 
 
 ## Available Scripts
