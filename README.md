@@ -1,6 +1,6 @@
 Tech-Stack: ReactJS, NodeJS(ExpressJS), Apollo GraphQL.
 
-Deployed app: [https://valkovartyom-spacex-app.herokuapp.com/](https://valkovartyom-spacex-app.herokuapp.com/) <br>
+Deployed app: [https://valkov-spacex-app.herokuapp.com/](https://valkov-spacex-app.herokuapp.com/) <br>
 SpaceX API: [https://docs.spacexdata.com/?version=latest](https://docs.spacexdata.com/?version=latest)
 
 ## Available Scripts
