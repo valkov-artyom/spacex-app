@@ -1,7 +1,7 @@
 Tech-Stack: React, NodeJS, Apollo.
 
-Deployed app: [https://aqueous-escarpment-39539.herokuapp.com/](https://aqueous-escarpment-39539.herokuapp.com/)
-
+Deployed app: [https://valkovartyom-spacex-app.herokuapp.com/](https://valkovartyom-spacex-app.herokuapp.com/)
+SpaceX API: [https://docs.spacexdata.com/?version=latest][https://docs.spacexdata.com/?version=latest]
 
 ## Available Scripts
 
